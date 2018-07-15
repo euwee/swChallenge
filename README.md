@@ -1,7 +1,7 @@
 # swChallenge
 For Software or Web Development Challenge
 
-This small project - webMailClient is to fulfill the challenge posted by siteminder.
+This small project - webMailClient using SendGrid and MailGun.
 This project is built with Spring-Boot technology, and thymeleaf as view template engine.
 The webMailClient.jar file contains the classes, source files and template. a
 It is a web-based project, which runs on Spring-boot applications.
