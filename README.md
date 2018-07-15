@@ -11,7 +11,7 @@ Hence, please make sure you have all following dependencies in your classpath be
 3. Thymeleaf jar files
 4. Spring Framework Javamail jar files
 
-Moreover, I uploaded a webMailClient-scr.zip file as well. 
+Moreover, I uploaded a webMailClient-src.zip file as well. 
 Inside there is pom.xml, you may use it deploy the project using Maven. Or unzip it into Spring Tools Suite or eclipse (support Spring-boot)
 The application.properties set the tomcat server listening port to 8088. You may change it to your prefer listening port. 
 
